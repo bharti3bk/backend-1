@@ -1,0 +1,678 @@
+{
+    "rooms": [
+        {
+            "name": "Tuwport" , 
+            "description": "New Traton"
+        } ,
+        { 
+            "name": "Rockbattley" , 
+            "description": "West Fer"
+
+        } ,
+        { 
+            "name": "Silsha" , 
+            "description": "West Blegat"
+
+        },
+        { 
+            "name": "Lensvil Forest" , 
+            "description": "Saint Coulscos"
+
+        },
+        { 
+            "name": "Mereminsworth" , 
+            "description": "Grovecum"
+
+        },
+        {
+            "name": "Valten Bay" , 
+            "description": "Valten Bay"
+        } ,
+        { 
+            "name": "Prince Saultkinsrslem" , 
+            "description": "Saint Langfels"
+
+        } ,
+        { 
+            "name": "Nacstebas" , 
+            "description": "Ngvilskambraington"
+
+        },
+        { 
+            "name": "West Grangepsey" , 
+            "description": "Rowwha Bay"
+
+        },
+        { 
+            "name": "Gogistels Bend" , 
+            "description": "Boupicwi"
+
+        },
+        {
+            "name": "Port Britra" , 
+            "description": "Coren"
+        } ,
+        { 
+            "name": "Wkernemitssalia" , 
+            "description": "La Wimke"
+
+        } ,
+        { 
+            "name": "New Rosla" , 
+            "description": "Royal Hillkingqui"
+
+        },
+        { 
+            "name": "Kidstashport" , 
+            "description": "Prince Werholme"
+
+        },
+        { 
+            "name": "Poty Creek" , 
+            "description": "Graylbusham"
+
+        },
+        {
+            "name": "Port Greencaj Du Stased" , 
+            "description": "Wainagespringsfax"
+        } ,
+        { 
+            "name": "Teauburgh" , 
+            "description": "Senwol"
+
+        } ,
+        { 
+            "name": "East Derann" , 
+            "description": "Parde"
+
+        },
+        { 
+            "name": "East Ken" , 
+            "description": "Royal Stalge"
+
+        },
+        { 
+            "name": "Great Stalni" , 
+            "description": "Plympdul"
+
+        },
+        {
+            "name": "Royal Risdeera" , 
+            "description": "Apginspen Colonies"
+        } ,
+        { 
+            "name": "Shisaold" , 
+            "description": "Mouwer"
+
+        } ,
+        { 
+            "name": "Thergan" , 
+            "description": "Msallkin"
+
+        },
+        { 
+            "name": "Churchrsea Under Thorpesport" , 
+            "description": "El Carnther"
+
+        },
+        { 
+            "name": "Cramcombe" , 
+            "description": "Cape Springstha"
+
+        },
+        {
+            "name": "East Darlaw" , 
+            "description": "Singrinesville"
+        } ,
+        { 
+            "name": "Sumparsham" , 
+            "description": "Saint Mastra"
+
+        } ,
+        { 
+            "name": "Cape Rayin" , 
+            "description": "Park Gezabroad"
+
+        },
+        { 
+            "name": "East Hail" , 
+            "description": "Red Lakeplatte"
+
+        },
+        { 
+            "name": "New Teealey" , 
+            "description": "Wychester"
+
+        },        {
+            "name": "New Crickdge" , 
+            "description": "Red Hart"
+        } ,
+        { 
+            "name": "Chus" , 
+            "description": "Cape Wauwim"
+
+        } ,
+        { 
+            "name": "Grand Hiarms" , 
+            "description": "East Thurdin"
+
+        },
+        { 
+            "name": "Prince Wista" , 
+            "description": "Port Sinwales"
+
+        },
+        { 
+            "name": "Doport" , 
+            "description": "Althorpeledgebourne"
+
+        },
+        {
+            "name": "Wlerwei" , 
+            "description": "hWest Vievefair"
+        } ,
+        { 
+            "name": "Churchuck" , 
+            "description": "Wootbury"
+
+        } ,
+        { 
+            "name": "San Lomlakes" , 
+            "description": "Quelouisehill"
+
+        },
+        { 
+            "name": "Ofpa" , 
+            "description": "Stonemoroldnium"
+
+        },
+        { 
+            "name": "Potlitt" , 
+            "description": "Moose Releys"
+
+        },
+        {
+            "name": "Sallhura" , 
+            "description": "Ncisshan"
+        } ,
+        { 
+            "name": "Haweslem" , 
+            "description": "Toomcape"
+
+        } ,
+        { 
+            "name": "Cinelough" , 
+            "description": "Bernar"
+
+        },
+        {
+            "name": "Tuwport" , 
+            "description": "New Traton"
+        } ,
+        { 
+            "name": "Rockbattley" , 
+            "description": "West Fer"
+
+        } ,
+        { 
+            "name": "Silsha" , 
+            "description": "West Blegat"
+
+        },
+        { 
+            "name": "Lensvil Forest" , 
+            "description": "Saint Coulscos"
+
+        },
+        { 
+            "name": "Mereminsworth" , 
+            "description": "Grovecum"
+
+        },
+        {
+            "name": "Valten Bay" , 
+            "description": "Valten Bay"
+        } ,
+        { 
+            "name": "Prince Saultkinsrslem" , 
+            "description": "Saint Langfels"
+
+        } ,
+        { 
+            "name": "Nacstebas" , 
+            "description": "Ngvilskambraington"
+
+        },
+        { 
+            "name": "West Grangepsey" , 
+            "description": "Rowwha Bay"
+
+        },
+        { 
+            "name": "Gogistels Bend" , 
+            "description": "Boupicwi"
+
+        },
+        {
+            "name": "Port Britra" , 
+            "description": "Coren"
+        } ,
+        { 
+            "name": "Wkernemitssalia" , 
+            "description": "La Wimke"
+
+        } ,
+        { 
+            "name": "New Rosla" , 
+            "description": "Royal Hillkingqui"
+
+        },
+        { 
+            "name": "Kidstashport" , 
+            "description": "Prince Werholme"
+
+        },
+        { 
+            "name": "Poty Creek" , 
+            "description": "Graylbusham"
+
+        },
+        {
+            "name": "Port Greencaj Du Stased" , 
+            "description": "Wainagespringsfax"
+        } ,
+        { 
+            "name": "Teauburgh" , 
+            "description": "Senwol"
+
+        } ,
+        { 
+            "name": "East Derann" , 
+            "description": "Parde"
+
+        },
+        { 
+            "name": "East Ken" , 
+            "description": "Royal Stalge"
+
+        },
+        { 
+            "name": "Great Stalni" , 
+            "description": "Plympdul"
+
+        },
+        {
+            "name": "Royal Risdeera" , 
+            "description": "Apginspen Colonies"
+        } ,
+        { 
+            "name": "Shisaold" , 
+            "description": "Mouwer"
+
+        } ,
+        { 
+            "name": "Thergan" , 
+            "description": "Msallkin"
+
+        },
+        { 
+            "name": "Churchrsea Under Thorpesport" , 
+            "description": "El Carnther"
+
+        },
+        { 
+            "name": "Cramcombe" , 
+            "description": "Cape Springstha"
+
+        },
+        {
+            "name": "East Darlaw" , 
+            "description": "Singrinesville"
+        } ,
+        { 
+            "name": "Sumparsham" , 
+            "description": "Saint Mastra"
+
+        } ,
+        { 
+            "name": "Cape Rayin" , 
+            "description": "Park Gezabroad"
+
+        },
+        { 
+            "name": "East Hail" , 
+            "description": "Red Lakeplatte"
+
+        },
+        { 
+            "name": "New Teealey" , 
+            "description": "Wychester"
+
+        },        {
+            "name": "New Crickdge" , 
+            "description": "Red Hart"
+        } ,
+        { 
+            "name": "Chus" , 
+            "description": "Cape Wauwim"
+
+        } ,
+        { 
+            "name": "Grand Hiarms" , 
+            "description": "East Thurdin"
+
+        },{
+            "name": "Tuwport" , 
+            "description": "New Traton"
+        } ,
+        { 
+            "name": "Rockbattley" , 
+            "description": "West Fer"
+
+        } ,
+        { 
+            "name": "Silsha" , 
+            "description": "West Blegat"
+
+        },
+        { 
+            "name": "Lensvil Forest" , 
+            "description": "Saint Coulscos"
+
+        },
+        { 
+            "name": "Mereminsworth" , 
+            "description": "Grovecum"
+
+        },
+        {
+            "name": "Valten Bay" , 
+            "description": "Valten Bay"
+        } ,
+        { 
+            "name": "Prince Saultkinsrslem" , 
+            "description": "Saint Langfels"
+
+        } ,
+        { 
+            "name": "Nacstebas" , 
+            "description": "Ngvilskambraington"
+
+        },
+        { 
+            "name": "West Grangepsey" , 
+            "description": "Rowwha Bay"
+
+        },
+        { 
+            "name": "Gogistels Bend" , 
+            "description": "Boupicwi"
+
+        },
+        {
+            "name": "Port Britra" , 
+            "description": "Coren"
+        } ,
+        { 
+            "name": "Wkernemitssalia" , 
+            "description": "La Wimke"
+
+        } ,
+        { 
+            "name": "New Rosla" , 
+            "description": "Royal Hillkingqui"
+
+        },
+        { 
+            "name": "Kidstashport" , 
+            "description": "Prince Werholme"
+
+        },
+        { 
+            "name": "Poty Creek" , 
+            "description": "Graylbusham"
+
+        },
+        {
+            "name": "Port Greencaj Du Stased" , 
+            "description": "Wainagespringsfax"
+        } ,
+        { 
+            "name": "Teauburgh" , 
+            "description": "Senwol"
+
+        } ,
+        { 
+            "name": "East Derann" , 
+            "description": "Parde"
+
+        },
+        { 
+            "name": "East Ken" , 
+            "description": "Royal Stalge"
+
+        },
+        { 
+            "name": "Great Stalni" , 
+            "description": "Plympdul"
+
+        },
+        {
+            "name": "Royal Risdeera" , 
+            "description": "Apginspen Colonies"
+        } ,
+        { 
+            "name": "Shisaold" , 
+            "description": "Mouwer"
+
+        } ,
+        { 
+            "name": "Thergan" , 
+            "description": "Msallkin"
+
+        },
+        { 
+            "name": "Churchrsea Under Thorpesport" , 
+            "description": "El Carnther"
+
+        },
+        { 
+            "name": "Cramcombe" , 
+            "description": "Cape Springstha"
+
+        },
+        {
+            "name": "East Darlaw" , 
+            "description": "Singrinesville"
+        } ,
+        { 
+            "name": "Sumparsham" , 
+            "description": "Saint Mastra"
+
+        } ,
+        { 
+            "name": "Cape Rayin" , 
+            "description": "Park Gezabroad"
+
+        },
+        { 
+            "name": "East Hail" , 
+            "description": "Red Lakeplatte"
+
+        },
+        { 
+            "name": "New Teealey" , 
+            "description": "Wychester"
+
+        },        {
+            "name": "New Crickdge" , 
+            "description": "Red Hart"
+        } ,
+        { 
+            "name": "Chus" , 
+            "description": "Cape Wauwim"
+
+        } ,
+        { 
+            "name": "Grand Hiarms" , 
+            "description": "East Thurdin"
+
+        },{
+            "name": "Tuwport" , 
+            "description": "New Traton"
+        } ,
+        { 
+            "name": "Rockbattley" , 
+            "description": "West Fer"
+
+        } ,
+        { 
+            "name": "Silsha" , 
+            "description": "West Blegat"
+
+        },
+        { 
+            "name": "Lensvil Forest" , 
+            "description": "Saint Coulscos"
+
+        },
+        { 
+            "name": "Mereminsworth" , 
+            "description": "Grovecum"
+
+        },
+        {
+            "name": "Valten Bay" , 
+            "description": "Valten Bay"
+        } ,
+        { 
+            "name": "Prince Saultkinsrslem" , 
+            "description": "Saint Langfels"
+
+        } ,
+        { 
+            "name": "Nacstebas" , 
+            "description": "Ngvilskambraington"
+
+        },
+        { 
+            "name": "West Grangepsey" , 
+            "description": "Rowwha Bay"
+
+        },
+        { 
+            "name": "Gogistels Bend" , 
+            "description": "Boupicwi"
+
+        },
+        {
+            "name": "Port Britra" , 
+            "description": "Coren"
+        } ,
+        { 
+            "name": "Wkernemitssalia" , 
+            "description": "La Wimke"
+
+        } ,
+        { 
+            "name": "New Rosla" , 
+            "description": "Royal Hillkingqui"
+
+        },
+        { 
+            "name": "Kidstashport" , 
+            "description": "Prince Werholme"
+
+        },
+        { 
+            "name": "Poty Creek" , 
+            "description": "Graylbusham"
+
+        },
+        {
+            "name": "Port Greencaj Du Stased" , 
+            "description": "Wainagespringsfax"
+        } ,
+        { 
+            "name": "Teauburgh" , 
+            "description": "Senwol"
+
+        } ,
+        { 
+            "name": "East Derann" , 
+            "description": "Parde"
+
+        },
+        { 
+            "name": "East Ken" , 
+            "description": "Royal Stalge"
+
+        },
+        { 
+            "name": "Great Stalni" , 
+            "description": "Plympdul"
+
+        },
+        {
+            "name": "Royal Risdeera" , 
+            "description": "Apginspen Colonies"
+        } ,
+        { 
+            "name": "Shisaold" , 
+            "description": "Mouwer"
+
+        } ,
+        { 
+            "name": "Thergan" , 
+            "description": "Msallkin"
+
+        },
+        { 
+            "name": "Churchrsea Under Thorpesport" , 
+            "description": "El Carnther"
+
+        },
+        { 
+            "name": "Cramcombe" , 
+            "description": "Cape Springstha"
+
+        },
+        {
+            "name": "East Darlaw" , 
+            "description": "Singrinesville"
+        } ,
+        { 
+            "name": "Sumparsham" , 
+            "description": "Saint Mastra"
+
+        } ,
+        { 
+            "name": "Cape Rayin" , 
+            "description": "Park Gezabroad"
+
+        },
+        { 
+            "name": "East Hail" , 
+            "description": "Red Lakeplatte"
+
+        },
+        { 
+            "name": "New Teealey" , 
+            "description": "Wychester"
+
+        },        {
+            "name": "New Crickdge" , 
+            "description": "Red Hart"
+        } ,
+        { 
+            "name": "Chus" , 
+            "description": "Cape Wauwim"
+
+        } ,
+        { 
+            "name": "Grand Hiarms" , 
+            "description": "East Thurdin"
+
+        }
+    ]
+}
